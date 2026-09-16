@@ -13,3 +13,12 @@
 ## 版本
 
 当前为 v0.4 试用版，实际效果仍在测试与改进中。
+
+## 作者与联系
+
+- 作者：[wojiaozyh123-hub](https://github.com/wojiaozyh123-hub)
+- Gmail：[wojiaozyh123@gmail.com](mailto:wojiaozyh123@gmail.com)
+
+## 使用许可
+
+本项目的原创提示词与说明文档采用 [CC0 1.0 Universal](LICENSE)。你可以自由复制、修改、再发布及商业使用，无需署名。
