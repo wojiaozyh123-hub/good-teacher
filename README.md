@@ -1,5 +1,20 @@
 # Good Teacher
 
+## English
+
+Good Teacher turns an AI chatbot (ChatGPT, Claude, Gemini…) into a personal tutor for your course. Before teaching, it asks what you're studying, what you already know, your goal, and how you want to be taught — then writes a tutoring prompt for you.
+
+The prompt is written in Chinese, but it is designed to talk with you in whatever language you use, so you can simply chat in English.
+
+**How to use**
+
+1. Open [good-teacher.txt (raw)](https://raw.githubusercontent.com/wojiaozyh123-hub/good-teacher/main/good-teacher.txt) and copy everything (easier on a laptop).
+2. Paste it into a new AI chat and say what you want to learn.
+3. Answer its questions. When it asks how you'd like to learn, try: "let me think first; give hints before full answers."
+4. Approve the plan, then paste the tutoring prompt it gives you into a new chat.
+
+---
+
 Good Teacher 帮助你通过自然对话，生成适合自己的专属 AI 教学提示词。它先了解你的课程资料、已有基础、学习目标和讲解偏好，再把这些需求整理成清楚的教学约定，让 AI 按你确认的方式带你学习，减少内容不对口、讲解深浅不合适，以及反复修改提示词的负担。
 
 你不需要懂提示词工程，也不必一开始就把需求想得很完整。像平常聊天一样，告诉它你想学什么、哪里不懂、希望怎样被讲解，它会引导你逐步理清。从课程预习、系统学习到复习资料整理，都可以从自己的需求出发。
