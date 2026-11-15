@@ -13,6 +13,8 @@ The prompt is written in Chinese, but it is designed to talk with you in whateve
 3. Answer its questions. When it asks how you'd like to learn, try: "let me think first; give hints before full answers."
 4. Approve the plan, then paste the tutoring prompt it gives you into a new chat.
 
+**See the difference:** [the same SN1/SN2 question with and without Good Teacher — the full chats](https://wojiaozyh123-hub.github.io/good-teacher/) (Claude Opus 5.5, 2026-11-15).
+
 ---
 
 Good Teacher 帮助你通过自然对话，生成适合自己的专属 AI 教学提示词。它先了解你的课程资料、已有基础、学习目标和讲解偏好，再把这些需求整理成清楚的教学约定，让 AI 按你确认的方式带你学习，减少内容不对口、讲解深浅不合适，以及反复修改提示词的负担。
@@ -33,6 +35,10 @@ Good Teacher 帮助你通过自然对话，生成适合自己的专属 AI 教学
 ## 使用示例
 
 [查看 GPT 对话使用示例](https://chatgpt.com/share/6aaaee48-979c-83ea-b52e-9fc63952f8ce?ogimg=plain)
+
+## 效果对比
+
+同一个问题（有机化学 SN1/SN2）：不用提示词直接问，和先用 Good Teacher 访谈、再用它生成的专属提示词教学，三段完整对话放在一起对比：[查看效果对比](https://wojiaozyh123-hub.github.io/good-teacher/)（Claude Opus 5.5，2026-11-15）。
 
 ## 版本
 
